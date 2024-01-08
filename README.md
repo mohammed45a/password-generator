@@ -12,7 +12,7 @@ To install this, go to the repository located here https://github.com/mohammed45
 ## Usage
 Webpage: https://mohammed45a.github.io/password-generator/
 
-Repository: https://github.com/mohammed45a/passowrd-generator
+Repository: https://github.com/mohammed45a/password-generator
 
 ## Credits
 
